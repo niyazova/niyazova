@@ -1,0 +1,150 @@
+.ull {
+    list-style: none;
+    color: black;
+   
+}
+.ull li {
+    padding: 10px;
+}
+.ull a:hover {
+    color: blue;
+    font-size: larger;
+}
+.ull a {
+    text-decoration: none;
+    color: black;
+}
+.li1 {
+    font-weight: 500;
+    padding-bottom: 20px;
+    color: black;
+    font-size: larger;
+}
+.li1 i {
+    color: blue;
+}
+.ull i {
+    font-size: 20px;
+    padding-right: 8px;
+}
+.li9 img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 50px;
+}
+.li9 {
+    margin-top: 230px;
+    position: fixed;
+}
+.nav {
+    height: 45px;
+}
+.ul-item {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    list-style: none;
+}
+.li-img img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 15px;
+}
+.li-item {
+    flex: 1;
+    color: rgb(151, 138, 138);
+    padding-top: 5px;
+}
+.li-img i {
+    color: rgb(235, 46, 77);
+    margin-left: -7px;
+}
+.li-span h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-left: 10px;
+    color: blue;
+}
+.section {
+    background-color: rgb(245, 229, 229);
+    width: 100%;
+    height: 100%;
+}
+.title {
+    padding: 60px;
+}
+.title a {
+    font-weight: 600 ;
+    text-decoration: none;
+}
+.title h5 {
+    font-size: 800;
+}
+.btns {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 95px;
+    margin-top: -45px;
+    margin-bottom: 10px;
+}
+.first__btn {
+    flex: 1;
+}
+.btns i {
+    padding: 5px;
+}
+.btns button {
+    font-weight: 600;
+}
+.row  span{ 
+    margin: 12px;
+    margin-left: 60px;
+    display: block;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: blue;
+    text-align: center;
+}
+.gallery-item img {
+    height: 70px;
+    width: 70px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 8px;
+    margin-left: 55px;
+}
+.gallery-item i {
+    color: rgb(235, 46, 77);
+    margin-left: -20px;
+    font-size: 22px;
+}
+.gallery-item h6 {
+    font-size: 14px;
+    text-align: center;
+}
+.gallery-item h5 {
+    font-size: 16px;
+    text-align: center;
+}
+.gallery-item {
+    box-shadow:slategray;
+    border-radius: 7px;
+    margin: 10px;
+    margin-left: 25px;
+    background-color: white;
+    height: 230px;
+    width: 220px;
+}
+.gallery-item a {
+    color: white;
+}
+.gallery-item button {
+    margin: 10px;
+    margin-left: 35px;
+    font-weight: 500;
+}
